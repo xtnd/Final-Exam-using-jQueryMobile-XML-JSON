@@ -36,13 +36,13 @@ $(document).on("pagebeforeshow", "#ExamFriXML", function() {
 function getXML(xml) {
 	console.log("getXML");
 	
-	$("#xmlFoodOut").html();
+	$("#xmlFoodOut").html("");
 	
 	
 	
 	$(xml).find("foodDivision[kslog='scharfk']").each(function(){
 		$(this).find("descAboutFood").each(function(){
-			if($(this).find("vitamins").attr("c") == '2' && $(this).find("calories").attr("fromfat") > 200) {
+			if($(this).find("vitamins").attr("c") == '2' && $(this).find("calories").attr("fromfat") => 200) {
 				$("#xmlFoodOut").append(
 					"<tr>" + 
 					"<td>" + $(this).find("vitamins").attr("c") + "</td>" +
@@ -74,7 +74,7 @@ $(document).on("pagebeforeshow", "#ExamFriJSON", function() {
 function getJson(data) {
 	console.log("getJson");
 
-	
+	$("#jsonPlantOutput").html("");
 	start=data.exam2.plantFiles;
 	
 	for(x=0; x < start.length; x++) {
