@@ -1,9 +1,3 @@
-/* SYST24444 myscript.js for Final Exam - Fall 2017
-		Friday class - Trafalgar campus - 25587 */
-/* DO NOT DELETE THESE COMMENTS (-1 point if deleted) */
-
-// exam02Review
-
 
 $(document).ready(function () {
 	console.log("in ready");
