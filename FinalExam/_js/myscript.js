@@ -42,7 +42,7 @@ function getXML(xml) {
 	
 	$(xml).find("foodDivision[kslog='scharfk']").each(function(){
 		$(this).find("descAboutFood").each(function(){
-			if($(this).find("vitamins").attr("c") == '2' && $(this).find("calories").attr("fromfat") => 200) {
+			if($(this).find("vitamins").attr("c") == '2' && $(this).find("calories").attr("fromfat") >= 200) {
 				$("#xmlFoodOut").append(
 					"<tr>" + 
 					"<td>" + $(this).find("vitamins").attr("c") + "</td>" +
@@ -74,8 +74,10 @@ $(document).on("pagebeforeshow", "#ExamFriJSON", function() {
 function getJson(data) {
 	console.log("getJson");
 
-	$("#jsonPlantOutput").html("");
+	
 	start=data.exam2.plantFiles;
+	
+	$("#jsonPlantOutput").html("");
 	
 	for(x=0; x < start.length; x++) {
 		//in array
@@ -118,7 +120,7 @@ $(document).on("pagebeforeshow", "#LocalGetStorage", function() {
 	studentNumberExam = localStorage.getItem("studentNumberExam");
 	studentAmtExam = parseFloat(localStorage.getItem("studentAmtExam"));
 	
-	finalcost = (studentAmtExam * 1.13).toFixed(2);
+	finalcost = (studentAmtExam -500).toFixed(2);
 	
 	
 	$("#amtOutputExam").val(finalcost);
