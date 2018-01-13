@@ -1,0 +1,186 @@
+{
+	"exam2": {
+				"plantFiles": [
+					{
+						"popular": {
+							"name" : "Anemone",
+							"light" : "Mostly Shady"
+							},
+						"botanical": "Anemone blanda", 
+						"zone": "4",
+						"priceRate": "$8.86",
+						"availability": "June"
+					},
+					{
+						"popular": {
+							"name" : "Grecian Windflower",
+							"light" : "Mostly Shady"
+							},
+						"botanical": "Anemone blanda", 
+						"zone": "6",
+						"priceRate": "$9.16",
+						"availability": "June"
+					},
+					{
+						"popular": {
+							"name" : "Bee Balm",
+							"light" : "Shade"
+							},
+						"botanical": "Monarda didyma", 
+						"zone": "4",
+						"priceRate": "$4.59",
+						"availability": "April"
+					},
+					{
+						"popular": {
+							"name" : "Bergamot",
+							"light" : "Shade"
+							},
+						"botanical": "Monarda didyma", 
+						"zone": "4",
+						"priceRate": "$7.16",
+						"availability": "April"
+					},
+					{
+						"popular": {
+							"name" : "Black-Eyed Susan",
+							"light" : "Sunny"
+							},
+						"botanical": "Rudbeckia hirta", 
+						"zone": "Annual",
+						"priceRate": "$9.80",
+						"availability": "June"
+					},
+					{
+						"popular": {
+							"name" : "Buttercup",
+							"light" : "Shade"
+							},
+						"botanical": "Ranunculus", 
+						"zone": "7",
+						"priceRate": "$2.57",
+						"availability": "April"
+					},
+					{
+						"popular": {
+							"name" : "Crowfoot",
+							"light" : "Shade"
+							},
+						"botanical": "Ranunculus", 
+						"zone": "4",
+						"priceRate": "$9.34",
+						"availability": "April"
+					},
+					{
+						"popular": {
+							"name" : "Butterfly Weed",
+							"light" : "Sunny"
+							},
+						"botanical": "Asclepias tuberosa", 
+						"zone": "Annual",
+						"priceRate": "$2.78",
+						"availability": "July"
+					},
+					{
+						"popular": {
+							"name" : "Cinquefoil",
+							"light" : "Shade"
+							},
+						"botanical": "Potentilla", 
+						"zone": "Annual",
+						"priceRate": "$7.06",
+						"availability": "July"
+					},
+					{
+						"popular": {
+							"name" : "Primrose",
+							"light" : "Sunny"
+							},
+						"botanical": "Oenothera", 
+						"zone": "3-5",
+						"priceRate": "$6.56",
+						"availability": "May"
+					},
+					{
+						"popular": {
+							"name" : "Gentian",
+							"light" : "Sun or Shade"
+							},
+						"botanical": "Gentiana", 
+						"zone": "7",
+						"priceRate": "$7.81",
+						"availability": "April"
+					},
+					{
+						"popular": {
+							"name" : "Blue Gentian",
+							"light" : "Sun or Shade"
+							},
+						"botanical": "Gentiana", 
+						"zone": "4",
+						"priceRate": "$8.56",
+						"availability": "April"
+					},
+					{
+						"popular": {
+							"name" : "Jacob's Ladder",
+							"light" : "Shade"
+							},
+						"botanical": "Polemonium caeruleum", 
+						"zone": "Annual",
+						"priceRate": "$9.26",
+						"availability": "March"
+					},
+					{
+						"popular": {
+							"name" : "Greek Valerian",
+							"light" : "Shade"
+							},
+						"botanical": "Polemonium caeruleum", 
+						"zone": "Annual",
+						"priceRate": "$5.36",
+						"availability": "June"
+					},
+					{
+						"popular": {
+							"name" : "California Poppy",
+							"light" : "Sun"
+							},
+						"botanical": "Eschscholzia californica", 
+						"zone": "Annual",
+						"priceRate": "$7.89",
+						"availability": "June"
+					},
+							{
+						"popular": {
+							"name" : "Shooting Star",
+							"light" : "Sunny"
+							},
+						"botanical": "Dodecatheon", 
+						"zone": "Annual",
+						"priceRate": "$8.60",
+						"availability": "July"
+					},
+					{
+						"popular": {
+							"name" : "Snakeroot",
+							"light" : "Shade"
+							},
+						"botanical": "Cimicifuga", 
+						"zone": "Annual",
+						"priceRate": "$5.63",
+						"availability": "June"
+					},
+					{
+						"popular": {
+							"name" : "Cardinal Flower",
+							"light" : "Shade"
+							},
+						"botanical": "Lobelia cardinalis", 
+						"zone": "2",
+						"priceRate": "$3.02",
+						"availability": "March"
+					}
+				]
+	}
+}

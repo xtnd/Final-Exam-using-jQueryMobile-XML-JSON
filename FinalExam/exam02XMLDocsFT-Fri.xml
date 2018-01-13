@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<food>
+	<foodGroup pslog="sidhu282" psname="Parneet Sidhu">
+		<docsAboutFood>
+			<fooddocs>Chicken Pot Pie</fooddocs>
+			<mfr>Lakeson</mfr>
+			<serving units="g">198</serving>
+			<calories fromfat="200">410</calories>			
+			<totalfat>22</totalfat>
+			<saturatedfat>9</saturatedfat>
+			<cholesterol>25</cholesterol>
+			<sodium>810</sodium>
+			<carb>42</carb>
+			<fiber>2</fiber>
+			<protein>10</protein>
+			<vitamins a="20" c="2"></vitamins>
+		</docsAboutFood>
+		<docsAboutFood>
+			<fooddocs>Eggs</fooddocs>
+			<mfr>Goodpath</mfr>
+			<serving units="g">50</serving>
+			<calories fromfat="40">70</calories>		
+			<totalfat>4.5</totalfat>
+			<saturatedfat>1.5</saturatedfat>
+			<cholesterol>215</cholesterol>
+			<sodium>65</sodium>
+			<carb>1</carb>
+			<fiber>0</fiber>
+			<protein>6</protein>
+			<vitamins a="6" c="0"></vitamins>			
+		</docsAboutFood>
+		<docsAboutFood>
+			<fooddocs>Beef Frankfurter, Quarter Pound </fooddocs>
+			<mfr>Armitage</mfr>
+			<serving units="g">115</serving>
+			<calories fromfat="290">370</calories>
+			<totalfat>32</totalfat>
+			<saturatedfat>15</saturatedfat>
+			<cholesterol>65</cholesterol>
+			<sodium>1100</sodium>
+			<carb>8</carb>
+			<fiber>0</fiber>
+			<protein>13</protein>
+			<vitamins a="0" c="2"></vitamins>
+		</docsAboutFood>		
+	</foodGroup>
+	<foodGroup sdlog="sing3753" sdname="Akashdeep Singh Dhillon">
+		<docsAboutFood>
+			<fooddocs>Beef Frankfurter, Quarter Pound </fooddocs>
+			<mfr>Armitage</mfr>
+			<serving units="g">115</serving>
+			<calories fromfat="290">370</calories>
+			<totalfat>32</totalfat>
+			<saturatedfat>15</saturatedfat>
+			<cholesterol>65</cholesterol>
+			<sodium>1100</sodium>
+			<carb>8</carb>
+			<fiber>0</fiber>
+			<protein>13</protein>
+			<vitamins a="0" c="2"></vitamins>
+		</docsAboutFood>
+		<docsAboutFood>
+			<fooddocs>Chicken Pot Pie</fooddocs>
+			<mfr>Lakeson</mfr>
+			<serving units="g">198</serving>
+			<calories fromfat="200">410</calories>			
+			<totalfat>22</totalfat>
+			<saturatedfat>9</saturatedfat>
+			<cholesterol>25</cholesterol>
+			<sodium>810</sodium>
+			<carb>42</carb>
+			<fiber>2</fiber>
+			<protein>10</protein>
+			<vitamins a="20" c="2"></vitamins>
+		</docsAboutFood>
+		<docsAboutFood>
+			<fooddocs>Hazelnut Spread</fooddocs>
+			<mfr>Ferreira</mfr>
+			<serving units="tbsp">2</serving>
+			<calories fromfat="90">200</calories>		
+			<totalfat>10</totalfat>
+			<saturatedfat>2</saturatedfat>
+			<cholesterol>0</cholesterol>
+			<sodium>20</sodium>
+			<carb>23</carb>
+			<fiber>2</fiber>
+			<protein>3</protein>
+			<vitamins a="0" c="0"></vitamins>			
+		</docsAboutFood>
+	</foodGroup>
+	<foodGroup amlog="sing4283" amname="Amanpreet Singh">
+		<docsAboutFood>
+			<fooddocs>Chicken Pot Pie</fooddocs>
+			<mfr>Lakeson</mfr>
+			<serving units="g">198</serving>
+			<calories fromfat="200">410</calories>			
+			<totalfat>22</totalfat>
+			<saturatedfat>9</saturatedfat>
+			<cholesterol>25</cholesterol>
+			<sodium>810</sodium>
+			<carb>42</carb>
+			<fiber>2</fiber>
+			<protein>10</protein>
+			<vitamins a="20" c="2"></vitamins>
+		</docsAboutFood>
+		<docsAboutFood>
+			<fooddocs>Beef Frankfurter, Quarter Pound </fooddocs>
+			<mfr>Armitage</mfr>
+			<serving units="g">115</serving>
+			<calories fromfat="290">370</calories>
+			<totalfat>32</totalfat>
+			<saturatedfat>15</saturatedfat>
+			<cholesterol>65</cholesterol>
+			<sodium>1100</sodium>
+			<carb>8</carb>
+			<fiber>0</fiber>
+			<protein>13</protein>
+			<vitamins a="0" c="2"></vitamins>
+		</docsAboutFood>
+		<docsAboutFood>
+			<fooddocs>Cole Slaw</fooddocs>
+			<mfr>Fresh Quick</mfr>
+			<serving units="cup">1.5</serving>
+			<calories fromfat="0">20</calories>				
+			<totalfat>0</totalfat>
+			<saturatedfat>0</saturatedfat>
+			<cholesterol>0</cholesterol>
+			<sodium>15</sodium>
+			<carb>5</carb>
+			<fiber>2</fiber>
+			<protein>1</protein>
+			<vitamins a="30" c="45"></vitamins>
+		</docsAboutFood>
+	</foodGroup>
+	<foodGroup gslog="sigurnaa" gsname="Gurnaam Singh">
+		<docsAboutFood>
+			<fooddocs>Cole Slaw</fooddocs>
+			<mfr>Fresh Quick</mfr>
+			<serving units="cup">1.5</serving>
+			<calories fromfat="0">20</calories>				
+			<totalfat>0</totalfat>
+			<saturatedfat>0</saturatedfat>
+			<cholesterol>0</cholesterol>
+			<sodium>15</sodium>
+			<carb>5</carb>
+			<fiber>2</fiber>
+			<protein>1</protein>
+			<vitamins a="30" c="45"></vitamins>
+		</docsAboutFood>
+		<docsAboutFood>
+			<fooddocs>Eggs</fooddocs>
+			<mfr>Goodpath</mfr>
+			<serving units="g">50</serving>
+			<calories fromfat="40">70</calories>		
+			<totalfat>4.5</totalfat>
+			<saturatedfat>1.5</saturatedfat>
+			<cholesterol>215</cholesterol>
+			<sodium>65</sodium>
+			<carb>1</carb>
+			<fiber>0</fiber>
+			<protein>6</protein>
+			<vitamins a="6" c="0"></vitamins>			
+		</docsAboutFood>
+		<docsAboutFood>
+			<fooddocs>Chicken Pot Pie</fooddocs>
+			<mfr>Lakeson</mfr>
+			<serving units="g">198</serving>
+			<calories fromfat="200">410</calories>			
+			<totalfat>22</totalfat>
+			<saturatedfat>9</saturatedfat>
+			<cholesterol>25</cholesterol>
+			<sodium>810</sodium>
+			<carb>42</carb>
+			<fiber>2</fiber>
+			<protein>10</protein>
+			<vitamins a="20" c="2"></vitamins>
+		</docsAboutFood>
+	</foodGroup>
+	<foodGroup hslog="sing3791" hsname="Harjot Singh">
+		<docsAboutFood>
+			<fooddocs>Soy Patties, Grilled</fooddocs>
+			<mfr>Gardenproducts</mfr>
+			<serving units="g">96</serving>
+			<calories fromfat="45">160</calories>	
+			<totalfat>5</totalfat>
+			<saturatedfat>0</saturatedfat>
+			<cholesterol>0</cholesterol>
+			<sodium>420</sodium>
+			<carb>10</carb>
+			<fiber>4</fiber>
+			<protein>9</protein>
+			<vitamins a="0" c="0"></vitamins>		
+		</docsAboutFood>
+		<docsAboutFood>
+			<fooddocs>Potato Chips</fooddocs>
+			<mfr>Lees</mfr>
+			<serving units="g">28</serving>
+			<calories fromfat="90">150</calories>	
+			<totalfat>10</totalfat>
+			<saturatedfat>3</saturatedfat>
+			<cholesterol>0</cholesterol>
+			<sodium>180</sodium>
+			<carb>15</carb>
+			<fiber>1</fiber>
+			<protein>2</protein>
+			<vitamins a="0" c="10"></vitamins>		
+		</docsAboutFood>
+		<docsAboutFood>
+			<fooddocs>Bagels, New York Style </fooddocs>
+			<mfr>Thompson</mfr>
+			<serving units="g">104</serving>
+			<calories fromfat="35">300</calories>
+			<totalfat>4</totalfat>
+			<saturatedfat>1</saturatedfat>
+			<cholesterol>0</cholesterol>
+			<sodium>510</sodium>
+			<carb>54</carb>
+			<fiber>3</fiber>
+			<protein>11</protein>
+			<vitamins a="0" c="0"></vitamins>
+		</docsAboutFood>
+	</foodGroup>
+	<foodGroup nslog="sing4635" nsname="Navjot Singh">
+		<docsAboutFood>
+			<fooddocs>Cole Slaw</fooddocs>
+			<mfr>Fresh Quick</mfr>
+			<serving units="cup">1.5</serving>
+			<calories fromfat="0">20</calories>				
+			<totalfat>0</totalfat>
+			<saturatedfat>0</saturatedfat>
+			<cholesterol>0</cholesterol>
+			<sodium>15</sodium>
+			<carb>5</carb>
+			<fiber>2</fiber>
+			<protein>1</protein>
+			<vitamins a="30" c="45"></vitamins>
+		</docsAboutFood>
+		<docsAboutFood>
+			<fooddocs>Bagels, New York Style </fooddocs>
+			<mfr>Thompson</mfr>
+			<serving units="g">104</serving>
+			<calories fromfat="35">300</calories>
+			<totalfat>4</totalfat>
+			<saturatedfat>1</saturatedfat>
+			<cholesterol>0</cholesterol>
+			<sodium>510</sodium>
+			<carb>54</carb>
+			<fiber>3</fiber>
+			<protein>11</protein>
+			<vitamins a="0" c="0"></vitamins>
+		</docsAboutFood>
+		<docsAboutFood>
+			<fooddocs>Eggs</fooddocs>
+			<mfr>Goodpath</mfr>
+			<serving units="g">50</serving>
+			<calories fromfat="40">70</calories>		
+			<totalfat>4.5</totalfat>
+			<saturatedfat>1.5</saturatedfat>
+			<cholesterol>215</cholesterol>
+			<sodium>65</sodium>
+			<carb>1</carb>
+			<fiber>0</fiber>
+			<protein>6</protein>
+			<vitamins a="6" c="0"></vitamins>			
+		</docsAboutFood>		
+	</foodGroup>
+</food>

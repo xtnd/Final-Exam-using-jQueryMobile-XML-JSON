@@ -1,0 +1,17 @@
+.ui-block-b {
+	border-left: thin solid black;
+	text-align: center;
+	padding-left: 2px;
+}
+h1 {
+	color: purple;
+}
+h2 {color: red;}
+h3 {font-style: italic;
+	color: red;}
+.title {
+	font-weight: bold;
+	text-decoration: underline;
+	font-size: 1.5em;
+	color: black;
+}

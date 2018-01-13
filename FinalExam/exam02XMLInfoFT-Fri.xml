@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<food>
+	<foodElement aslog="sing4437" asname="Amritpal Singh">
+		<infoAboutFood>
+			<foodtitle>Cole Slaw</foodtitle>
+			<mfr>Fresh Quick</mfr>
+			<serving units="cup">1.5</serving>
+			<calories fromfat="0">20</calories>				
+			<totalfat>0</totalfat>
+			<saturatedfat>0</saturatedfat>
+			<cholesterol>0</cholesterol>
+			<sodium>15</sodium>
+			<carb>5</carb>
+			<fiber>2</fiber>
+			<protein>1</protein>
+			<vitamins a="30" c="45"></vitamins>
+		</infoAboutFood>
+		<infoAboutFood>
+			<foodtitle>Avocado Dip</foodtitle>
+			<mfr>Sunnydale</mfr>
+			<serving units="g">29</serving>
+			<calories fromfat="100">110</calories>
+			<totalfat>11</totalfat>
+			<saturatedfat>3</saturatedfat>
+			<cholesterol>5</cholesterol>
+			<sodium>210</sodium>
+			<carb>2</carb>
+			<fiber>0</fiber>
+			<protein>1</protein>
+			<vitamins a="0" c="0"></vitamins>
+		</infoAboutFood>
+		<infoAboutFood>
+			<foodtitle>Bagels, New York Style </foodtitle>
+			<mfr>Thompson</mfr>
+			<serving units="g">104</serving>
+			<calories fromfat="35">300</calories>
+			<totalfat>4</totalfat>
+			<saturatedfat>1</saturatedfat>
+			<cholesterol>0</cholesterol>
+			<sodium>510</sodium>
+			<carb>54</carb>
+			<fiber>3</fiber>
+			<protein>11</protein>
+			<vitamins a="0" c="0"></vitamins>
+		</infoAboutFood>		
+	</foodElement>
+	<foodElement jslog="sing4682" jsname="Jaskaran Singh">
+		<infoAboutFood>
+			<foodtitle>Chicken Pot Pie</foodtitle>
+			<mfr>Lakeson</mfr>
+			<serving units="g">198</serving>
+			<calories fromfat="200">410</calories>			
+			<totalfat>22</totalfat>
+			<saturatedfat>9</saturatedfat>
+			<cholesterol>25</cholesterol>
+			<sodium>810</sodium>
+			<carb>42</carb>
+			<fiber>2</fiber>
+			<protein>10</protein>
+			<vitamins a="20" c="2"></vitamins>
+		</infoAboutFood>
+		<infoAboutFood>
+			<foodtitle>Beef Frankfurter, Quarter Pound </foodtitle>
+			<mfr>Armitage</mfr>
+			<serving units="g">115</serving>
+			<calories fromfat="290">370</calories>
+			<totalfat>32</totalfat>
+			<saturatedfat>15</saturatedfat>
+			<cholesterol>65</cholesterol>
+			<sodium>1100</sodium>
+			<carb>8</carb>
+			<fiber>0</fiber>
+			<protein>13</protein>
+			<vitamins a="0" c="2"></vitamins>
+		</infoAboutFood>
+		<infoAboutFood>
+			<foodtitle>Bagels, New York Style </foodtitle>
+			<mfr>Thompson</mfr>
+			<serving units="g">104</serving>
+			<calories fromfat="35">300</calories>
+			<totalfat>4</totalfat>
+			<saturatedfat>1</saturatedfat>
+			<cholesterol>0</cholesterol>
+			<sodium>510</sodium>
+			<carb>54</carb>
+			<fiber>3</fiber>
+			<protein>11</protein>
+			<vitamins a="0" c="0"></vitamins>
+		</infoAboutFood>
+	</foodElement>
+	<foodElement mslog="sing5800" msname="Manbir Singh">
+		<infoAboutFood>
+			<foodtitle>Cole Slaw</foodtitle>
+			<mfr>Fresh Quick</mfr>
+			<serving units="cup">1.5</serving>
+			<calories fromfat="0">20</calories>				
+			<totalfat>0</totalfat>
+			<saturatedfat>0</saturatedfat>
+			<cholesterol>0</cholesterol>
+			<sodium>15</sodium>
+			<carb>5</carb>
+			<fiber>2</fiber>
+			<protein>1</protein>
+			<vitamins a="30" c="45"></vitamins>
+		</infoAboutFood>
+		<infoAboutFood>
+			<foodtitle>Eggs</foodtitle>
+			<mfr>Goodpath</mfr>
+			<serving units="g">50</serving>
+			<calories fromfat="40">70</calories>		
+			<totalfat>4.5</totalfat>
+			<saturatedfat>1.5</saturatedfat>
+			<cholesterol>215</cholesterol>
+			<sodium>65</sodium>
+			<carb>1</carb>
+			<fiber>0</fiber>
+			<protein>6</protein>
+			<vitamins a="6" c="0"></vitamins>			
+		</infoAboutFood>
+		<infoAboutFood>
+			<foodtitle>Chicken Pot Pie</foodtitle>
+			<mfr>Lakeson</mfr>
+			<serving units="g">198</serving>
+			<calories fromfat="200">410</calories>			
+			<totalfat>22</totalfat>
+			<saturatedfat>9</saturatedfat>
+			<cholesterol>25</cholesterol>
+			<sodium>810</sodium>
+			<carb>42</carb>
+			<fiber>2</fiber>
+			<protein>10</protein>
+			<vitamins a="20" c="2"></vitamins>
+		</infoAboutFood>
+	</foodElement>
+	<foodElement rslog="soodrah" rsname="Rahul Sood">
+		<infoAboutFood>
+			<foodtitle>Hazelnut Spread</foodtitle>
+			<mfr>Ferreira</mfr>
+			<serving units="tbsp">2</serving>
+			<calories fromfat="90">200</calories>		
+			<totalfat>10</totalfat>
+			<saturatedfat>2</saturatedfat>
+			<cholesterol>0</cholesterol>
+			<sodium>20</sodium>
+			<carb>23</carb>
+			<fiber>2</fiber>
+			<protein>3</protein>
+			<vitamins a="0" c="0"></vitamins>			
+		</infoAboutFood>
+		<infoAboutFood>
+			<foodtitle>Beef Frankfurter, Quarter Pound </foodtitle>
+			<mfr>Armitage</mfr>
+			<serving units="g">115</serving>
+			<calories fromfat="290">370</calories>
+			<totalfat>32</totalfat>
+			<saturatedfat>15</saturatedfat>
+			<cholesterol>65</cholesterol>
+			<sodium>1100</sodium>
+			<carb>8</carb>
+			<fiber>0</fiber>
+			<protein>13</protein>
+			<vitamins a="0" c="2"></vitamins>
+		</infoAboutFood>
+		<infoAboutFood>
+			<foodtitle>Truffles, Dark Chocolate</foodtitle>
+			<mfr>Lyndon's</mfr>
+			<serving units="g">39</serving>
+			<calories fromfat="170">220</calories>	
+			<totalfat>19</totalfat>
+			<saturatedfat>14</saturatedfat>
+			<cholesterol>25</cholesterol>
+			<sodium>10</sodium>
+			<carb>16</carb>
+			<fiber>1</fiber>
+			<protein>1</protein>
+			<vitamins a="0" c="0"></vitamins>		
+		</infoAboutFood>
+	</foodElement>
+	<foodElement yylog="yaoyua" yyname="Yuan Yao">
+		<infoAboutFood>
+			<foodtitle>Beef Frankfurter, Quarter Pound </foodtitle>
+			<mfr>Armitage</mfr>
+			<serving units="g">115</serving>
+			<calories fromfat="290">370</calories>
+			<totalfat>32</totalfat>
+			<saturatedfat>15</saturatedfat>
+			<cholesterol>65</cholesterol>
+			<sodium>1100</sodium>
+			<carb>8</carb>
+			<fiber>0</fiber>
+			<protein>13</protein>
+			<vitamins a="0" c="2"></vitamins>
+		</infoAboutFood>
+		<infoAboutFood>
+			<foodtitle>Chicken Pot Pie</foodtitle>
+			<mfr>Lakeson</mfr>
+			<serving units="g">198</serving>
+			<calories fromfat="200">410</calories>			
+			<totalfat>22</totalfat>
+			<saturatedfat>9</saturatedfat>
+			<cholesterol>25</cholesterol>
+			<sodium>810</sodium>
+			<carb>42</carb>
+			<fiber>2</fiber>
+			<protein>10</protein>
+			<vitamins a="20" c="2"></vitamins>
+		</infoAboutFood>
+		<infoAboutFood>
+			<foodtitle>Potato Chips</foodtitle>
+			<mfr>Lees</mfr>
+			<serving units="g">28</serving>
+			<calories fromfat="90">150</calories>	
+			<totalfat>10</totalfat>
+			<saturatedfat>3</saturatedfat>
+			<cholesterol>0</cholesterol>
+			<sodium>180</sodium>
+			<carb>15</carb>
+			<fiber>1</fiber>
+			<protein>2</protein>
+			<vitamins a="0" c="10"></vitamins>		
+		</infoAboutFood>
+	</foodElement>
+	<foodElement wzlog="zongw" wzname="Wenwei Zong">
+		<infoAboutFood>
+			<foodtitle>Chicken Pot Pie</foodtitle>
+			<mfr>Lakeson</mfr>
+			<serving units="g">198</serving>
+			<calories fromfat="200">410</calories>			
+			<totalfat>22</totalfat>
+			<saturatedfat>9</saturatedfat>
+			<cholesterol>25</cholesterol>
+			<sodium>810</sodium>
+			<carb>42</carb>
+			<fiber>2</fiber>
+			<protein>10</protein>
+			<vitamins a="20" c="2"></vitamins>
+		</infoAboutFood>
+		<infoAboutFood>
+			<foodtitle>Cole Slaw</foodtitle>
+			<mfr>Fresh Quick</mfr>
+			<serving units="cup">1.5</serving>
+			<calories fromfat="0">20</calories>				
+			<totalfat>0</totalfat>
+			<saturatedfat>0</saturatedfat>
+			<cholesterol>0</cholesterol>
+			<sodium>15</sodium>
+			<carb>5</carb>
+			<fiber>2</fiber>
+			<protein>1</protein>
+			<vitamins a="30" c="45"></vitamins>
+		</infoAboutFood>
+		<infoAboutFood>
+			<foodtitle>Beef Frankfurter, Quarter Pound </foodtitle>
+			<mfr>Armitage</mfr>
+			<serving units="g">115</serving>
+			<calories fromfat="290">370</calories>
+			<totalfat>32</totalfat>
+			<saturatedfat>15</saturatedfat>
+			<cholesterol>65</cholesterol>
+			<sodium>1100</sodium>
+			<carb>8</carb>
+			<fiber>0</fiber>
+			<protein>13</protein>
+			<vitamins a="0" c="2"></vitamins>
+		</infoAboutFood>		
+	</foodElement>
+</food>

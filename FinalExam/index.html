@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<!-- SYST24444 exam02 Main HTML File - Trafalgar Campus - Fall 2017 - Friday -->
+
+<HTML>
+
+<head>
+	<title>Exam 02</title>
+  <meta http-equiv="Content-Type" content="text/html"; charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+  <link rel="stylesheet" href="_css/jquery.mobile.css" />
+
+  <script src="_js/jquery.js"></script>
+  <script src="_js/jquery.mobile.js"></script>
+	<script src="_js/myscript.js"></script>
+
+	<style>
+		table { border: thin solid black; border-collapse: collapse; }
+		th, td { border: thin solid black; padding: 10px;}
+	</style>
+</head>
+
+<body>
+	<div data-role="page" id="exam02Fri" data-theme="a">
+		<header data-role="header">
+			<h1>EXAM #2 / Friday</h1>
+			<h2 class="FullName"></h2>				<!-- FULL NAME: -->
+		</header>
+		
+		<section class="ui-content" role="main">
+			<a href="#ExamFriXML" class="ui-btn">Retrieve XML Data</a>
+			<a href="#ExamFriJSON" class="ui-btn">Retrieve JSON Data</a>
+			<a href="#ExamFriLocStorage" class="ui-btn">Save and Retrieve from Local Storage</a>
+		</section>
+		
+		<footer data-role="footer">
+			<h3 class="ExamCode"></h3>				<!-- CODE:  -->
+			<h3 class="LOGIN"></h3>						<!-- LOGIN: -->
+		</footer>
+	</div>
+	
+	<div data-role="page" id="ExamFriXML">
+		<header data-role="header">
+			<a href="#exam02Fri" class="ui-btn ui-icon-back ui-btn-icon-notext"></a>
+			<h1>EXAM #2 / Friday</h1>
+			<h2 class="FullName"></h2>				<!-- FULL NAME: -->		
+		</header>
+		
+		<section class="ui-content" role="main">
+			<table>
+				<tr><th>Food Data</th></tr>
+				<tbody id="xmlFoodOut"></tbody>
+			</table>
+		</section>
+		
+		<footer data-role="footer">
+			<h3 class="ExamCode"></h3>				<!-- CODE:  -->
+			<h3 class="LOGIN"></h3>						<!-- LOGIN: -->
+		</footer>
+	</div>
+	
+	<div data-role="page" id="ExamFriJSON">
+		<a href="#exam02Fri" class="ui-btn ui-icon-back ui-btn-icon-notext"></a>
+		<header data-role="header">
+			<h1>EXAM #2 / Friday</h1>
+			<h2 class="FullName"></h2>				<!-- FULL NAME: -->		
+		</header>
+		
+		<section class="ui-content" role="main">
+			<section class="title">Plant Data</section><br>
+			<ul id="jsonPlantOutput" data-role="listview" data-inset="true"></ul>
+		</section>
+		
+		<footer data-role="footer">
+			<h3 class="ExamCode"></h3>				<!-- CODE:  -->
+			<h3 class="LOGIN"></h3>						<!-- LOGIN: -->
+		</footer>
+	</div>
+	
+	<div data-role="page" id="ExamFriLocStorage">
+		<header data-role="header">
+			<a href="#exam02Fri" class="ui-btn ui-icon-back ui-btn-icon-notext"></a>
+			<h1>EXAM #2 / Friday</h1>
+			<h2 class="FullName"></h2>				<!-- FULL NAME: -->	
+		</header>
+		
+		<section class="ui-content" role="main">
+			<form>
+				<label for="loginNameExam">Enter Login Name: </label>						
+				<input name="loginNameExam" type="text" value="scharfk"/>
+				<label for="studentNumberExam">Enter Student Number: </label>
+				<input name="studentNumberExam" type="text" value="991455754"/>
+				<label for="studentAmtExam">Enter Student Tuition Amount: </label>
+				<input name="studentAmtExam" type="text" value="1425.00"/>
+			</form>
+
+			<div class="ui-grid-a">
+				<div class="ui-block-a">
+					<button class="ui-btn ui-icon-info ui-btn-icon-bottom" 
+									id="LocalSetStorage">Save Data to<br>Local Storage</button>
+				</div>
+				<div class="ui-block-b">
+					<a href="#LocalGetStorage" 
+								class="ui-btn ui-icon-info ui-btn-icon-bottom" 
+								data-rel="dialog" data-transition="pop">Get Data from<br>Local Storage Data</a>
+				</div>
+		</section>
+		
+		<footer data-role="footer">
+			<h3 class="ExamCode"></h3>				<!-- CODE:  -->
+			<h3 class="LOGIN"></h3>						<!-- LOGIN: -->	
+		</footer>
+	</div>
+	
+	<div data-role="page" id="LocalGetStorage">
+		<header data-role="header" data-theme="b">
+			<h1>Confirm Data</h1>
+		</header><!-- /header -->
+
+		<div class="ui-content" role="main" data-theme="b">	
+			<h2 id="nameOutExam"></h2>
+			<h2 id="SNumberOutExam"></h2>
+			<form>
+				<label for="tuitionOutputExam">Initial Tuition Amount: </label>
+				<input type="text" id="tuitionOutputExam" name="tuitionOutputExam">		
+				<hr>
+				<label for="amtOutputExam">Final Tuition Cost minus Bursary: </label>
+				<input type="text" id="amtOutputExam" name="amtOutputExam">						
+			</form>
+			<hr>
+			<p><a href="#ExamFriLocStorage" data-rel="back" class="ui-btn ui-icon-back ui-btn-icon-top">Back to LS Page</a></p>	
+		</div>
+	</div>	
+</body>
+</html>

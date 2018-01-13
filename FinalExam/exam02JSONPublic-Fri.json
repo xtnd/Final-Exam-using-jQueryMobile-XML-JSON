@@ -1,0 +1,186 @@
+{
+	"exam2": {
+				"plantRecords": [
+					{
+						"public": "Bloodroot",
+						"botanical": {
+							"zone": "4",
+							"text": "Sanguinaria canadensis"
+						},
+						"light": "Mostly Shady",
+						"priceRate": "$2.44",
+						"availability": "April"
+					},
+					{
+						"public": "Columbine",
+						"botanical": {
+							"zone": "6",
+							"text": "Aquilegia canadensis"
+						},
+						"light": "Mostly Shady",
+						"priceRate": "$9.37",
+						"availability": "April"
+					},
+					{
+						"public": "Marsh Marigold",
+						"botanical": {
+							"zone": "4",
+							"text": "Caltha palustris"
+						},
+						"light": "Mostly Sunny",
+						"priceRate": "$6.81",
+						"availability": "April"
+					},
+					{
+						"public": "Cowslip",
+						"botanical": {
+							"zone": "5",
+							"text": "Caltha palustris"
+						},
+						"light": "Mostly Shady",
+						"priceRate": "$9.90",
+						"availability": "April"
+					},					
+					{
+						"public": "Dutchman's-Breeches",
+						"botanical": {
+							"zone": "3",
+							"text": "Dicentra cucullaria"
+						},
+						"light": "Mostly Shady",
+						"priceRate": "6.44",
+						"availability": "March"
+					},	
+					{
+						"public": "Ginger, Wild",
+						"botanical": {
+							"zone": "3",
+							"text": "Asarum canadense"
+						},
+						"light": "Mostly Shady",
+						"priceRate": "$9.03",
+						"availability": "March"
+					},					
+					{
+						"public": "Hepatica",
+						"botanical": {
+							"zone": "5",
+							"text": "Hepatica americana"
+						},
+						"light": "Mostly Shady",
+						"priceRate": "$4.45",
+						"availability": "April"
+					},	
+					{
+						"public": "Liverleaf",
+						"botanical": {
+							"zone": "4",
+							"text": "Hepatica americana"
+						},
+						"light": "Mostly Shady",
+						"priceRate": "$3.99",
+						"availability": "April"
+					},	
+					{
+						"public": "Jack-In-The-Pulpit",
+						"botanical": {
+							"zone": "6",
+							"text": "Arisaema triphyllum"
+						},
+						"light": "Mostly Shady",
+						"priceRate": "$3.23",
+						"availability": "April"
+					},	
+					{
+						"public": "Mayapple",
+						"botanical": {
+							"zone": "3",
+							"text": "Podophyllum peltatum"
+						},
+						"light": "Mostly Shady",
+						"priceRate": "$2.98",
+						"availability": "March"
+					},	
+					{
+						"public": "Phlox, Woodland",
+						"botanical": {
+							"zone": "3",
+							"text": "Phlox divaricata"
+						},
+						"light": "Sun or Shade",
+						"priceRate": "$2.80",
+						"availability": "March"
+					},						
+					{
+						"public": "Phlox, Blue",
+						"botanical": {
+							"zone": "3",
+							"text": "Phlox divaricata"
+						},
+						"light": "Sun or Shade",
+						"priceRate": "$5.59",
+						"availability": "March"
+					},						
+					{
+						"public": "Spring-Beauty",
+						"botanical": {
+							"zone": "7",
+							"text": "Claytonia Virginica"
+						},
+						"light": "Mostly Shady",
+						"priceRate": "$6.59",
+						"availability": "July"
+					},	
+					{
+						"public": "Trillium",
+						"botanical": {
+							"zone": "5",
+							"text": "Trillium grandiflorum"
+						},
+						"light": "Sun or Shade",
+						"priceRate": "$3.90",
+						"availability": "May"
+					},	
+					{
+						"public": "Wake Robin",
+						"botanical": {
+							"zone": "5",
+							"text": "Trillium grandiflorum"
+						},
+						"light": "Sun or Shade",
+						"priceRate": "$3.20",
+						"availability": "May"
+					},	
+					{
+						"public": "Violet, Dog-Tooth",
+						"botanical": {
+							"zone": "5",
+							"text": "Erythronium americanum"
+						},
+						"light": "Shade",
+						"priceRate": "$9.04",
+						"availability": "May"
+					},	
+					{
+						"public": "Trout Lily",
+						"botanical": {
+							"zone": "4",
+							"text": "Erythronium americanum"
+						},
+						"light": "Shade",
+						"priceRate": "$6.94",
+						"availability": "April"
+					},	
+					{
+						"public": "Adder's-Tongue",
+						"botanical": {
+							"zone": "4",
+							"text": "Erythronium americanum"
+						},
+						"light": "Shade",
+						"priceRate": "$9.58",
+						"availability": "April"
+					}
+				]
+	}
+}
